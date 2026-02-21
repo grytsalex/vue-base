@@ -24,6 +24,9 @@ coverage
 *.sln
 *.sw?
 
+# Agents
+/CLAUDE.md
+
 *.tsbuildinfo
 
 .eslintcache

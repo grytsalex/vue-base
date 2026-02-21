@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
-import ChildComponent from "@components/ChildComponent/ChildComponent.vue";
+import { ChildComponent } from "@components/ChildComponent";
 
 const parrentState = ref({
   prop1: "value1",
